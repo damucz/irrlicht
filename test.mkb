@@ -1,0 +1,11 @@
+files
+{
+	["source"]
+	("source")
+	"main.cpp"
+}
+
+subprojects
+{
+	Irrlicht
+}
